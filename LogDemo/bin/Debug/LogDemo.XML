@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LogDemo</name>
+    </assembly>
+    <members>
+        <member name="T:LogDemo.LogExtensions">
+            <summary>
+            Extensions to help make logging awesome - this should be installed into the root namespace of your application
+            </summary>
+        </member>
+        <member name="F:LogDemo.LogExtensions._dictionary">
+            <summary>
+            Concurrent dictionary that ensures only one instance of a logger for a type.
+            </summary>
+        </member>
+        <member name="M:LogDemo.LogExtensions.Log``1(``0)">
+            <summary>
+            Gets the logger for <see cref="!:T"/>.
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="type">The type to get the logger for.</param>
+            <returns>Instance of a logger for the object.</returns>
+        </member>
+        <member name="M:LogDemo.LogExtensions.Log(System.String)">
+            <summary>
+            Gets the logger for the specified object name.
+            </summary>
+            <param name="objectName">Either use the fully qualified object name or the short. If used with Log&lt;T&gt;() you must use the fully qualified object name"/></param>
+            <returns>Instance of a logger for the object.</returns>
+        </member>
+        <member name="T:LogDemo.LogDemo">
+            <summary>
+            Represents a demo of LogManager
+            </summary>
+        </member>
+        <member name="F:LogDemo.LogDemo.LOG">
+            <summary>
+            Stores a constant of ILog
+            </summary>
+        </member>
+        <member name="M:LogDemo.LogDemo.Main">
+            <summary>
+            The entry point of the program.
+            </summary>
+        </member>
+    </members>
+</doc>
