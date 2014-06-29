@@ -1,0 +1,11 @@
+c:\users\kiril\documents\visual studio 2013\Projects\DevelopmentTools\LogDemo\bin\Debug\LogDemo.exe.config
+c:\users\kiril\documents\visual studio 2013\Projects\DevelopmentTools\LogDemo\bin\Debug\LogDemo.exe
+c:\users\kiril\documents\visual studio 2013\Projects\DevelopmentTools\LogDemo\bin\Debug\LogDemo.pdb
+c:\users\kiril\documents\visual studio 2013\Projects\DevelopmentTools\LogDemo\bin\Debug\log4net.dll
+c:\users\kiril\documents\visual studio 2013\Projects\DevelopmentTools\LogDemo\bin\Debug\this.Log-log4net.dll
+c:\users\kiril\documents\visual studio 2013\Projects\DevelopmentTools\LogDemo\bin\Debug\this.Log.dll
+c:\users\kiril\documents\visual studio 2013\Projects\DevelopmentTools\LogDemo\bin\Debug\log4net.xml
+c:\users\kiril\documents\visual studio 2013\Projects\DevelopmentTools\LogDemo\obj\Debug\LogDemo.csprojResolveAssemblyReference.cache
+c:\users\kiril\documents\visual studio 2013\Projects\DevelopmentTools\LogDemo\obj\Debug\LogDemo.exe
+c:\users\kiril\documents\visual studio 2013\Projects\DevelopmentTools\LogDemo\obj\Debug\LogDemo.pdb
+C:\Users\Kiril\documents\visual studio 2013\Projects\DevelopmentTools\LogDemo\bin\Debug\LogDemo.XML
